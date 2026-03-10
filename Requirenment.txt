@@ -1,0 +1,6 @@
+python 3
+Streamlit
+langgraph
+sqllite
+Ollama
+ollama pull llama3.1:8b
